@@ -1,6 +1,6 @@
 ## Hello! there 👋
 
-**Padmavathi-S-code/Padmavathi-S-code** is a ✨ _special_ ✨ repository because its `README.md` .
+**Padmavathi-S-code/Padmavathi-S-code** is a ✨ _special_ ✨ repository because its `README.md`  about me.
 
 Here are some things you should know about me:
 
