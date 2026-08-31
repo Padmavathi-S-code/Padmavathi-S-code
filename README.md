@@ -1,8 +1,8 @@
-## Hi there 👋
+## Hello! there 👋
 
-**Padmavathi-S-code/Padmavathi-S-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Padmavathi-S-code/Padmavathi-S-code** is a ✨ _special_ ✨ repository because its `README.md` .
 
-Here are some ideas to get you started:
+Here are some things you should know about me:
 
 - 🔭 I'm a recent Msc Bioinformatics graduate ...
 - 🌱 I’m currently relearning Python, Scientific writing, Machine learning in Biology, Molecular dynamic simulation, Python, Linux...
