@@ -19,7 +19,7 @@ Here are some things you should know about me:
 - 🖼️ More then you, you're art should speak for itself.
 - 🫢 Trying to be comfortable with being uncomfortable.
 - ✨ Greatest thing you can do in your life is be true to yourself and live a life to be the best version of you to ever exist in this eternity...
-- 🥲 I trying okay with feeling dumb and stupid when learning complex thingd and doing new things i never tried.
+- 🥲 I trying okay with feeling stupid when i am learning complex things and doing new things i never tried.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
